@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Chim3ra/Scenes/HackingWindow.unity
+  isLoaded: 1
+  isActive: 1
